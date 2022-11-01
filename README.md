@@ -32,3 +32,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+// pages - зарезервированное имя для роутинга
+// [id] - динамический параметр
+// _document в pages позволяет получить доступ к html
+// <style jsx>{}</style> - фигурные скобки указывают что мы работаем с JSX
+// 1:15:00 пауза
+// error.module.css -> кастомные стили, module - указывать обязательно
